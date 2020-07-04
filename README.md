@@ -1,7 +1,8 @@
 <p align="center">
 	<h1 align="center"> Text to Handwriting converter </h1>
-	<h4 align="center"> Convert text files into handwritten PDFs <h4>
-	<h4 align="center"> Project By: Rohan Hadvani <h4>
+	<h4 align="center"> Convert text files into handwritten PDFs </h4>
+	
+	<h3 align="center"> Project By: Rohan Hadvani </h3>
 	
 </p>
 <br>

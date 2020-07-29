@@ -24,5 +24,5 @@
 python txttohandwriting.py
 ```
 
-### This repo was forked from @rohan27hadvani to whom all credit goes to.
+### This repo was forked from [rohan27hadvani](https://github.com/rohan27hadvani/) to whom all credit goes to.
 
